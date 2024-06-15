@@ -2,6 +2,7 @@
   "name": "no-excess-property-sample",
   "private": true,
   "workspaces": [
-    "packages/react-vite-eslintrc"
+    "packages/react-vite-eslintrc",
+    "packages/react-vite-flatconfig"
   ]
 }
