@@ -9,4 +9,6 @@ npm i
 code .
 ```
 
+setting vscode: `Use Flat Config` -> `true`
+
 file `src/App.tsx` has an error, and it will be shown in the editor.
