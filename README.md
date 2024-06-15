@@ -1,6 +1,6 @@
-# no-excess-property: Sample React-Vite + eslintrc Project
+# no-excess-property: Sample Project
 
-This is a sample project to show `eslint-plugin-no-excess-property` in react-vite & eslintrc.
+This is a sample project to show `eslint-plugin-no-excess-property`
 
 ```bash
 git clone git@github.com:tfs-tada/no-excess-property-sample.git
